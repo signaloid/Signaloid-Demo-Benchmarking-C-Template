@@ -4,7 +4,7 @@
 
 # Internal Template for Demos in Benchmarking Format
 This template is for creating demonstration
-application repositories that adhere to the structure required by the automated benchmarking tools found in the [Signaloid Python package](https://github.com/signaloid/signaloid-python/tree/main/src/signaloid/benchmarking/automation.git).
+application repositories that adhere to the structure required by the automated benchmarking tools found in the [Signaloid Python package](https://github.com/signaloid/signaloid-python/tree/main/src/signaloid/benchmarking/automation).
 
 ## Cloning the repository
 The correct way to clone this repository is:
